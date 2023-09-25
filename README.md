@@ -1,6 +1,8 @@
-<p align="center">
-  <img width="200" src="https://open-wc.org/hero.png"></img>
-</p>
+Login creado con Lit Element como ejercicio de aprendizaje:
+
+![login](https://github.com/RobertoPavon/login_LitElement/assets/136355355/49e31536-efdb-4ab2-a4f8-4c675d507cf0)
+
+![_login](https://github.com/RobertoPavon/login_LitElement/assets/136355355/c34416ca-9fc8-41a2-bf56-371f94a7ed69)
 
 ## Open-wc Starter App
 
